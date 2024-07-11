@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gopalakrishna's Web Page</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to Gopalakrishna's Web Page</h1>
+    </header>
+    <main>
+        <section class="intro">
+            <h2>About Me</h2>
+            <p>Hello! My name is Gopalakrishna.</p>
+        </section>
+        <section class="interests">
+            <h2>My Interests</h2>
+            <ul>
+                <li>Web Development</li>
+                <li>Programming</li>
+                <li>Technology</li>
+                <li>Artificial Intelligence</li>
+            </ul>
+        </section>
+        <section class="contact">
+            <h2>Contact Me</h2>
+            <p>Feel free to reach out to me via email at <a href="mailto:gopalakrishna@example.com">gopalakrishna@example.com</a>.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Gopalakrishna. All rights reserved.</p>
+    </footer>
+</body>
+</html>
